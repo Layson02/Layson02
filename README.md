@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%23+Hi+there%2C+I'm+Layson!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=26&pause=1000&color=058A6A&width=435&lines=Hi+there%2C+I'm+Layson!;But+you+can+just+call+me+%22Lay%22)](https://git.io/typing-svg)
 
 I am a Computer Science student from Brazil with a deep passion for technology. My hands-on experience in assembling and maintaining desktop and notebook computers has provided me with strong problem-solving skills and a keen attention to detail.
 
