@@ -11,7 +11,7 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 * 🤖 I'm also exploring the fascinating field of **Prompt Engineering for AI**.
 * 💬 Ask me about **PC hardware, assembly, and maintenance**.
 * 📫 You can reach me at: **laysononlyforwork@gmail.com** 
-* 🇬🇧 I am actively developing my **English communication skills (CEFR Level A1)**.
+* 🌐 I am actively developing my **English communication skills (CEFR Level A1)**.
 
 ---
 
