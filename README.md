@@ -29,7 +29,7 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 ![CSS](badge/CSS-1572B6.svg)
 ![C#](badge/CSHARP-512BD4.svg)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  <!--colocar icone depois-->
+![VSCode](badge/VScode-333.svg)
 
 ---
 
