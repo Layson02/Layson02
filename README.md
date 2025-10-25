@@ -23,7 +23,7 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 ### 💻 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <!--Talvez mudar a cor do icon depois-->
-![Java](badge/Java-003B70.svg)
+![Java](https://github.com/Layson02/Layson02/blob/main/badge/Java-003B70.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](badge/CSS-1572B6.svg)
