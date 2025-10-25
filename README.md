@@ -20,16 +20,17 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 
 ---
 
-### 💻 Languages and Tools <!--Adicionar certificados das respectivas areas ou ferramentas-->
+### 💻 Languages and Tools 
+<!--Adicionar certificados das respectivas areas ou ferramentas-->
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <!--Talvez mudar a cor do icon depois-->
-![Java](https://raw.githubusercontent.com/Layson02/Layson02/refs/heads/main/badge/Java-003B70.svg)
+![Java](badge/Java-003B70.svg?v=1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://github.com/Layson02/Layson02/blob/main/badge/CSS-1572B6.svg)
-![C#](badge/CSHARP-512BD4.svg)
+![CSS](badge/CSS-1572B6.svg?v=1)
+![C#](badge/CSHARP-512BD4.svg?v=1)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](badge/VScode-333.svg)
+![VSCode](badge/VScode-333.svg?v=1)
 
 ---
 
