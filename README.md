@@ -9,7 +9,6 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 * 🌱 I’m currently deepening my knowledge in **Python, Java, and Web Technologies (JS/CSS)**.
 * 🎯 My next learning goal is **C#**.
 * 🤖 I'm also exploring the fascinating field of **Prompt Engineering for AI**.
-* 📫 You can reach me at: **laysononlyforwork@gmail.com** 
 * 🌐 I am actively developing my **English communication skills (CEFR Level A2)**.
 
 ---
@@ -17,14 +16,14 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laysonv/)
-
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=laysononlyforwork@gmail.com)
 ---
 
 ### 💻 Languages and Tools 
 <!--Adicionar certificados das respectivas areas ou ferramentas-->
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <!--Talvez mudar a cor do icon depois-->
-![Java](badge/Java-EA2D2E.svg) <!--Heeeeeeeeeeeeeeellllllllllllpppppppppppppppppp!-->
+![Java](badge/Java-003B70.svg) <!--Heeeeeeeeeeeeeeellllllllllllpppppppppppppppppp!-->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](badge/CSS-1572B6.svg) <!--Heeeeeeeeeeeeeeellllllllllllpppppppppppppppppp!-->
