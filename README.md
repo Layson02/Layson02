@@ -8,7 +8,7 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 
 * 🌱 I’m currently deepening my knowledge in **Python, Java, and Web Technologies (JS/CSS)**.
 * 🎯 My next learning goal is **C#**.
-* 🤖 I'm also exploring the fascinating field of **Prompt Engineering for AI**.
+* 🤖 I'm also exploring the fascinating field of **LLMs**.
 * 🌐 I am actively developing my **English communication skills (CEFR Level A2)**.
 
 ---
