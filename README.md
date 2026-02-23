@@ -38,5 +38,5 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 
 ![Layson's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Layson02&show_icons=true&theme=dark&count_private=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Layson02&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Layson02&layout=compact&theme=dark&count_private=true)
 
