@@ -40,11 +40,11 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 
 ![Top Langs](https://github-readme-stats-lay.vercel.app/api/top-langs/?username=Layson02&layout=compact&theme=dark&count_private=true&langs_count=10)
 
-<div align="center">
+<!--<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake-dark.svg?v=2">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake.svg?v=2">
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake.svg?v=2">
   </picture>
-</div>
+</div>-->
 
