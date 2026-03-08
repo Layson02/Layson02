@@ -42,9 +42,9 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
 
