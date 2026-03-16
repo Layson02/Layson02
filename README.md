@@ -23,6 +23,7 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 <!--Adicionar certificados das respectivas areas ou ferramentas-->
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <!--Talvez mudar a cor do icon depois-->
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Java](badge/Java-003B70.svg) <!--Heeeeeeeeeeeeeeellllllllllllpppppppppppppppppp!-->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -31,6 +32,7 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![VSCode](badge/VScode-333.svg) <!--Heeeeeeeeeeeeeeellllllllllllpppppppppppppppppp!-->
+
 
 ---
 
