@@ -30,7 +30,7 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 ![CSS](badge/CSS-1572B6.svg) <!--Heeeeeeeeeeeeeeellllllllllllpppppppppppppppppp!-->
 ![C#](badge/CSHARP-512BD4.svg) <!--Heeeeeeeeeeeeeeellllllllllllpppppppppppppppppp!-->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![VSCode](badge/VScode-333.svg) <!--Heeeeeeeeeeeeeeellllllllllllpppppppppppppppppp!-->
 
 
