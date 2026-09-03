@@ -2,13 +2,6 @@
 
 I am a Computer Science student from Brazil with a deep passion for technology. My hands-on experience in assembling and maintaining desktop and laptop computers has provided me with strong problem-solving skills and a keen attention to detail.
 
-Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, with the goal of also learning C#. I am also studying **Machine Learning** to better understand the interaction between people and intelligent systems. I am a curious, dedicated, and adaptable person, always looking to learn and take on new challenges.
-
----
-
-* 🌱 I’m currently deepening my knowledge in **Python, Java, and Web Technologies (JS/CSS)**.
-* 🎯 My next learning goal is **C#**.
-* 🤖 I'm also exploring the fascinating field of **LLMs**.
 * 🌐 I am actively developing my **English communication skills (CEFR Level A2)**.
 
 ---
@@ -20,7 +13,6 @@ Currently, I am deepening my studies in **Python, Java, JavaScript, and CSS**, w
 ---
 
 ### 💻 Languages and Tools 
-<!--Adicionar certificados das respectivas areas ou ferramentas-->
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <!--Talvez mudar a cor do icon depois-->
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
