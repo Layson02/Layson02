@@ -28,11 +28,10 @@ I am a Computer Science student from Brazil with a deep passion for technology. 
 
 ---
 
-### 📊 My GitHub Stats
-
-![Layson's GitHub stats](https://github-readme-stats-lay.vercel.app/api?username=Layson02&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-<img src="https://github-readme-stats-lay.vercel.app/api/top-langs/?username=Layson02&layout=compact&theme=dark&count_private=true&langs_count=10" width="468" alt="Top Langs">
+<div align="center">
+  <img height="180em" src="./profile/stats.svg" alt="Stats" />
+  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
+</div>
 
 
 <!--<div align="center">
