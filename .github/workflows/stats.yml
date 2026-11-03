@@ -2,8 +2,13 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "16 3 * * *"
+    - cron: "16 0 * * *"
+      timezone: "America/Sao_Paulo"
   workflow_dispatch:
+
+concurrency:
+  group: update-readme-cards
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -33,10 +38,30 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
+      - name: Inspect generated cards
+        run: |
+          echo "Generated files:"
+          ls -lh profile/*.svg
+          echo "Changes:"
+          git status --short
+          git diff --stat
+
+          if git diff --quiet -- profile/top-langs.svg; then
+            echo "top-langs.svg was generated but did not change."
+          else
+            echo "top-langs.svg changed."
+          fi
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README stats cards" || exit 0
+
+          if git diff --cached --quiet; then
+            echo "No card changes detected."
+            exit 0
+          fi
+
+          git commit -m "Update README stats cards"
           git push
