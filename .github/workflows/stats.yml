@@ -33,7 +33,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Layson02&layout=compact&theme=dark&count_private=true&langs_count=8
+          options: username=Layson02&layout=compact&theme=dark&count_private=true&langs_count=20
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
