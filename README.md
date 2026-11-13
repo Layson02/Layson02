@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=26&pause=1000&color=347E37&width=435&lines=Hi+there%2C+I'm+Layson!+%F0%9F%91%8B;But+you+can+just+call+me+'Lay')](https://git.io/typing-svg)
 
-I am a Computer Science student from Brazil with a deep passion for technology. My hands-on experience in assembling and maintaining desktop and laptop computers has provided me with strong problem-solving skills and a keen attention to detail.
+* I am a Computer Science student from Brazil with a deep passion for technology.
 
 * 🌐 I am actively developing my **English communication skills (CEFR Level A2)**.
 
@@ -25,7 +25,6 @@ I am a Computer Science student from Brazil with a deep passion for technology. 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![VSCode](badge/VScode-333.svg) <!--Heeeeeeeeeeeeeeellllllllllllpppppppppppppppppp!-->
 
-
 ---
 
 <div align="center">
@@ -33,6 +32,9 @@ I am a Computer Science student from Brazil with a deep passion for technology. 
   <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
+
+<!-- Estou te vendo ![Visitor Count](https://komarev.com/ghpvc/?username=Layson02&color=blue&style=flat)
+-->
 
 <!--<div align="center">
   <picture>
