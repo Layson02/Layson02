@@ -36,11 +36,4 @@
 <!-- Estou te vendo ![Visitor Count](https://komarev.com/ghpvc/?username=Layson02&color=blue&style=flat)
 -->
 
-<!--<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake.svg?v=2">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Layson02/Layson02/output/github-contribution-grid-snake.svg?v=2">
-  </picture>
-</div>-->
 
